@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CODSOFT-level1-task2/static/css/main.c447679a.css",
+    "main.js": "/CODSOFT-level1-task2/static/js/main.a70daef8.js",
+    "static/js/787.acb79df8.chunk.js": "/CODSOFT-level1-task2/static/js/787.acb79df8.chunk.js",
+    "static/media/1.jpeg": "/CODSOFT-level1-task2/static/media/1.f355f6bb33696ffa087a.jpeg",
+    "static/media/2.jpeg": "/CODSOFT-level1-task2/static/media/2.7b2f82233a76c57cc357.jpeg",
+    "static/media/3.jpeg": "/CODSOFT-level1-task2/static/media/3.a98257702ebee6e421af.jpeg",
+    "index.html": "/CODSOFT-level1-task2/index.html",
+    "main.c447679a.css.map": "/CODSOFT-level1-task2/static/css/main.c447679a.css.map",
+    "main.a70daef8.js.map": "/CODSOFT-level1-task2/static/js/main.a70daef8.js.map",
+    "787.acb79df8.chunk.js.map": "/CODSOFT-level1-task2/static/js/787.acb79df8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c447679a.css",
+    "static/js/main.a70daef8.js"
+  ]
+}
