@@ -37,10 +37,15 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 .navcon {
   margin-right: 1rem;
 }
+
+
 
 
 
