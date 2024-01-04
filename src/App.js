@@ -121,6 +121,7 @@ function App() {
           backgroundPosition: `50% -${scrollPosition * 0.5}px`,
         }}
       />
+      <></>
 
       <Navbar expand="lg" style={{ backgroundColor: 'transparent', zIndex: 100, fontFamily:'monospace' }}>
         <Navbar.Brand href="#home" style={{ marginLeft: '2rem', color: 'white',  }}>
