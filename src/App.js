@@ -314,7 +314,7 @@ function App() {
           <FontAwesomeIcon icon={faInstagram} size="2x" style={{ color: 'white',padding:'10px' }} />
         </a>
       </div>
-
+<></>
       <footer className="text-center py-4" style={{ fontFamily: 'serif', color: 'white' }}>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '0px' }}>
         
